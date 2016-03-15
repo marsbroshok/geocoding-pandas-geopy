@@ -1,7 +1,9 @@
 # Convert address to map coordinates with Geopy and Pandas
 Here you can find a toy example of geocoding with [geopy](https://github.com/geopy/geopy) and [pandas](http://pandas.pydata.org) libraries.
 
-Data to play with is a French Open Goverment data with information about [pharmacies](https://www.data.gouv.fr/fr/datasets/carte-des-pharmacies-de-paris-idf/) of the Parisian region.
+All steps for this toy examples are collected in the ipython notebook [**data.gouv.fr - pharma.ipynb**](https://github.com/marsbroshok/geocoding-pandas-geopy/blob/master/data.gouv.fr%20-%20pharma.ipynb). 
+
+Address data to play with is a French Open Goverment data with information about [pharmacies](https://www.data.gouv.fr/fr/datasets/carte-des-pharmacies-de-paris-idf/) of the Parisian region.
 
 ## Installation
 To run notebook on your machine you can:
